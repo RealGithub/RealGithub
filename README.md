@@ -22,6 +22,14 @@ We want to thank to (https://github.com/aziz/tmTheme-Editor), the creator of (ht
 
 If you find any mismatch from github's theme plase make a new Issue or new Pull Request to this repository not to any other repository part of our organization.
 
+# Pull Request
+
+- Edit (http://tmtheme-editor.herokuapp.com/#!/editor/theme/RealGithub)
+
+- Compare with github
+
+- Make a Pull Request
+
 # Enjoy the coding experience!
 
 # We hope we bring you the same coding experience as editing or reading code from github!
