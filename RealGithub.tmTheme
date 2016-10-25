@@ -1441,7 +1441,7 @@
 			<key>name</key>
 			<string>Method Delimiter</string>
 			<key>scope</key>
-			<string>meta.delimiter.method.period.</string>
+			<string>meta.delimiter.method.period</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
