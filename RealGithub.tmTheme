@@ -224,6 +224,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Function Argument</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#323232</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Tag Name</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
@@ -1380,17 +1391,6 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>italic bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Function Argument</string>
-			<key>scope</key>
-			<string>variable.parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#0086b3</string>
 			</dict>
 		</dict>
 	</array>
