@@ -1384,17 +1384,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>TypeScript Function Argument</string>
-			<key>scope</key>
-			<string>variable.parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#323232</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Function Argument</string>
 			<key>scope</key>
 			<string>variable.parameter</string>
