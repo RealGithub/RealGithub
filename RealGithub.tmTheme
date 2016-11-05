@@ -235,6 +235,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Function Argument TypeScript</string>
+			<key>scope</key>
+			<string>variable.parameter.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ED6A43</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Tag Name</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
