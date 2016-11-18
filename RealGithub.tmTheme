@@ -142,7 +142,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ED6A43</string>
+				<string>#323232</string>
 			</dict>
 		</dict>
 		<dict>
@@ -594,7 +594,7 @@
 			<key>name</key>
 			<string>this</string>
 			<key>scope</key>
-			<string>variable.language.this.js</string>
+			<string>variable.language.this.js, variable.language.this.ts</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
