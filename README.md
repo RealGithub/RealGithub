@@ -4,7 +4,9 @@ Main repository for RealGithub theme
 
 # Purpose
 
-The purpose of the organization RealGithub is to provide color theme 100% alike to the one used in and from github for all major cross platform text editors.
+The purpose of the organization RealGithub was to provide color theme 100% alike to the one used in and from github in 2016 for all major cross platform text editors.
+
+**The project is now archived!**
 
 # Credits
 
